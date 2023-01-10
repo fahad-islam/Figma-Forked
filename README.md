@@ -1,2 +1,2 @@
-# Figma-Forked
+# query-component-sweet
 Created with CodeSandbox
